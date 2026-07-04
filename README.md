@@ -1,16 +1,22 @@
-## Hi there 👋
+### // software engineer & security enthusiast
 
-<!--
-**lyna-asma/lyna-asma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> CS student @ USTHB 
+---
 
-Here are some ideas to get you started:
+### // security & infrastructure
+`Wazuh` `OPNsense` `Proxmox` `Threat Detection` `Log Analysis` `Ubuntu Server`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### // backend
+`FastAPI` `Python` `SQLAlchemy` `Node.js` `Express` `Spring Boot`
+
+### // frontend & other
+`React` `PostgreSQL` `SQLite` `JavaScript` `HTML / CSS`
+
+---
+
+### // github stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lyna-asma&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=00ff99&icon_color=00ff99&text_color=e0e0e0)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lyna-asma&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=00ff99&text_color=e0e0e0)
+
+
