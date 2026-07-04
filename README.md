@@ -4,7 +4,7 @@
 
 ---
 
-### // tools & technologies i'm familiar with
+![tools](https://img.shields.io/badge/tools%20%26%20technologies%20i'm%20familiar%20with-1e2a3a?style=flat-square&logo=github&logoColor=4a9eff&labelColor=1e2a3a&color=1e2a3a)
 
 ![Wazuh](https://img.shields.io/badge/Wazuh-1e2a3a?style=flat-square&logoColor=4a9eff&labelColor=1e2a3a&color=1e2a3a)
 ![OPNsense](https://img.shields.io/badge/OPNsense-1e2a3a?style=flat-square&logoColor=4a9eff&labelColor=1e2a3a&color=1e2a3a)
@@ -23,7 +23,6 @@
 
 ---
 
-### // github stats
+![stats](https://img.shields.io/badge/github%20stats-1e2a3a?style=flat-square&logo=github&logoColor=4a9eff&labelColor=1e2a3a&color=1e2a3a)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lyna-asma&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=4a9eff&icon_color=4a9eff&text_color=e0e0e0)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lyna-asma&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=4a9eff&text_color=e0e0e0)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lyna-asma&theme=dark&hide_border=true&background=0d0d0d&ring=4a9eff&fire=4a9eff&currStreakLabel=4a9eff&sideLabels=aaaaaa&dates=666666&currStreakNum=e0e0e0&sideNums=e0e0e0)
