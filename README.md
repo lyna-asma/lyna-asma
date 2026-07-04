@@ -1,38 +1,29 @@
 # // software engineer & security enthusiast
 
-> CS student @ USTHB · Building secure systems and full-stack products · Interested in SOC tooling, backend engineering, and infrastructure.
+> CS student @ USTHB · Familiar with full-stack development and security tooling · Learning in public.
 
 ---
 
-### // security & infrastructure
+### // tools & technologies i'm familiar with
 
-![Wazuh](https://img.shields.io/badge/Wazuh-00ff99?style=flat-square&labelColor=0d0d0d&color=00ff99)
-![OPNsense](https://img.shields.io/badge/OPNsense-00ff99?style=flat-square&labelColor=0d0d0d&color=00ff99)
-![Proxmox](https://img.shields.io/badge/Proxmox-00ff99?style=flat-square&labelColor=0d0d0d&color=00ff99)
-![Threat Detection](https://img.shields.io/badge/Threat%20Detection-1a1a1a?style=flat-square&labelColor=1a1a1a&color=1a1a1a)
-![Log Analysis](https://img.shields.io/badge/Log%20Analysis-1a1a1a?style=flat-square&labelColor=1a1a1a&color=1a1a1a)
-![Ubuntu Server](https://img.shields.io/badge/Ubuntu%20Server-1a1a1a?style=flat-square&labelColor=1a1a1a&color=1a1a1a)
-
-### // backend
-
-![FastAPI](https://img.shields.io/badge/FastAPI-00ff99?style=flat-square&labelColor=0d0d0d&color=00ff99)
-![Python](https://img.shields.io/badge/Python-00ff99?style=flat-square&labelColor=0d0d0d&color=00ff99)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-00ff99?style=flat-square&labelColor=0d0d0d&color=00ff99)
-![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&labelColor=1a1a1a&color=1a1a1a)
-![Express](https://img.shields.io/badge/Express-1a1a1a?style=flat-square&labelColor=1a1a1a&color=1a1a1a)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-1a1a1a?style=flat-square&labelColor=1a1a1a&color=1a1a1a)
-
-### // frontend & other
-
-![React](https://img.shields.io/badge/React-00ff99?style=flat-square&labelColor=0d0d0d&color=00ff99)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&labelColor=1a1a1a&color=1a1a1a)
-![SQLite](https://img.shields.io/badge/SQLite-1a1a1a?style=flat-square&labelColor=1a1a1a&color=1a1a1a)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&labelColor=1a1a1a&color=1a1a1a)
-![HTML / CSS](https://img.shields.io/badge/HTML%20%2F%20CSS-1a1a1a?style=flat-square&labelColor=1a1a1a&color=1a1a1a)
+![Wazuh](https://img.shields.io/badge/Wazuh-1e2a3a?style=flat-square&logoColor=4a9eff&labelColor=1e2a3a&color=1e2a3a)
+![OPNsense](https://img.shields.io/badge/OPNsense-1e2a3a?style=flat-square&logoColor=4a9eff&labelColor=1e2a3a&color=1e2a3a)
+![Proxmox](https://img.shields.io/badge/Proxmox-1e2a3a?style=flat-square&logo=proxmox&logoColor=4a9eff&labelColor=1e2a3a&color=1e2a3a)
+![FastAPI](https://img.shields.io/badge/FastAPI-1e2a3a?style=flat-square&logo=fastapi&logoColor=4a9eff&labelColor=1e2a3a&color=1e2a3a)
+![Python](https://img.shields.io/badge/Python-1e2a3a?style=flat-square&logo=python&logoColor=4a9eff&labelColor=1e2a3a&color=1e2a3a)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1e2a3a?style=flat-square&logo=sqlalchemy&logoColor=4a9eff&labelColor=1e2a3a&color=1e2a3a)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=nodedotjs&logoColor=666&labelColor=1a1a1a&color=1a1a1a)
+![Express](https://img.shields.io/badge/Express-1a1a1a?style=flat-square&logo=express&logoColor=666&labelColor=1a1a1a&color=1a1a1a)
+![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=666&labelColor=1a1a1a&color=1a1a1a)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=666&labelColor=1a1a1a&color=1a1a1a)
+![SQLite](https://img.shields.io/badge/SQLite-1a1a1a?style=flat-square&logo=sqlite&logoColor=666&labelColor=1a1a1a&color=1a1a1a)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=666&labelColor=1a1a1a&color=1a1a1a)
+![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux&logoColor=666&labelColor=1a1a1a&color=1a1a1a)
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=666&labelColor=1a1a1a&color=1a1a1a)
 
 ---
 
 ### // github stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lyna-asma&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=00ff99&icon_color=00ff99&text_color=e0e0e0)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lyna-asma&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=00ff99&text_color=e0e0e0)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lyna-asma&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=4a9eff&icon_color=4a9eff&text_color=e0e0e0)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lyna-asma&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=4a9eff&text_color=e0e0e0)
